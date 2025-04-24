@@ -1,7 +1,7 @@
 ## Install dependencies
 
-```js
-yarn;
+```bash
+yarn
 ```
 
 ## Start json server
